@@ -1,0 +1,17 @@
+thead{
+    background-color:  #9aa1a9;
+
+}
+table{
+    border-collapse: collapse;
+    text-align: center;
+    width: 550px;
+}
+
+tr{
+  	border: 2px solid;
+}
+
+td{
+	border: 2px solid;
+}
