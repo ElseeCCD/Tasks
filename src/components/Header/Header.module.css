@@ -1,11 +1,10 @@
-.container {
+.container{
 	display: flex;
 	justify-content: space-between;
 	padding-bottom: 16px;
-	border-bottom: 1px solid #ccc;
+	border-bottom: 1px solid #CCC;
 }
-
-.title {
-	font-weight: 900;
-	margin: 0;
+.title{
+	margin:0;
+	font-weight: 900px;
 }

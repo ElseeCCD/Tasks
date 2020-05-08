@@ -1,8 +1,9 @@
 //@flow
 import React from 'react';
 
-const Edit = (props) => {
-  const {width = 17, height = 19, color = '#31343A'} = props;
+
+
+const Edit = ({width = 17, height = 19, color = '#31343A'}) => {
   return (
     <svg width={`${width}`} height={`${height}`} viewBox="0 0 17 19" fill="none" xmlns="http://www.w3.org/2000/svg">
       <path d="M9.85116 3.9368L13.5711 6.84261L6.21409 16.2576L2.49605 13.3516L9.85116 3.9368Z" stroke={color} strokeLinejoin="round"/>

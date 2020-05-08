@@ -1,15 +1,13 @@
-.container {
+.container{
 	display: flex;
-	margin: 12px 0 20px; 
+	margin:12px 0 20px;
 }
-
-.label {
+.label{
 	font-size: 16px;
-	color: #9aa1a9;
-	margin-bottom: 4px;
-	font-weight: 700;
+	color: grey;
+	margin-bottom: 5px;
+	font-weight: 700px;
 }
-
 .filter-item + .filter-item {
-	margin-left: 12px;
+	margin:5px;
 }

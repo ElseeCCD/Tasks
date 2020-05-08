@@ -1,0 +1,15 @@
+.button{
+	border-radius: 4px;
+	padding:8px;
+	background: #4a90e2;
+	color:#fff; 
+	text-transform: uppercase;
+	font-weight: 700px;
+	font-size:12px;
+	line-height: 1em;
+	cursor:pointer;
+}
+.button__grey{
+	background: #ccc;
+	color: #354354;
+}

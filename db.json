@@ -1,23 +1,26 @@
 {
-	"tasks": [
-	{
-		"id": "gdfgfg564",
+	"tasks":[
+		{
+		"id":1,
 		"name": "Task 1",
-		"assignee": "Ivan Ivanov",
-		"start_date": "10 april",
-		"due_date": "11 april"
+		"assignee":"Ivan Ivanov",
+		"start_date":"2020-04-25T13:25:00.000Z",
+		"due_date": "2020-05-06T00:00:00.000Z"
+
 	},
 	{
+		"id":2,
 		"name": "Task 2",
-		"assignee": "Ivan Petrov",
-		"start_date": "10 may",
-		"due_date": "11 may"
+		"assignee":"Petr Sidorov",
+		"start_date":"2020-05-20T00:00:00.000Z",
+		"due_date": "2020-05-25T00:00:00.000Z"
 	},
 	{
+		"id":3,
 		"name": "Task 3",
-		"assignee": "Petr Ivanov",
-		"start_date": "10 april",
-		"due_date": "11 april"
+		"assignee":"Guy Ritchie",
+		"start_date":"2020-05-26T00:00:00.000Z",
+		"due_date": "2020-06-01T00:00:00.000Z"
 	}
-]
+	]
 }

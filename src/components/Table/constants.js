@@ -1,21 +1,24 @@
 export const Tasks = [
 	{
-		id: "gdfgfg564",
 		name: 'Task 1',
-		assignee: 'Ivan Ivanov',
-		start_date: '10 april',
-		due_date: '11 april'
+		assignee:'Ivan Ivanov',
+		start_date:'April 1',
+		due_date: 'April 6'
+
 	},
 	{
 		name: 'Task 2',
-		assignee: 'Ivan Petrov',
-		start_date: '10 may',
-		due_date: '11 may'
+		assignee:'Petr Sidorov',
+		start_date:'April 20',
+		due_date: 'April 25'
 	},
 	{
 		name: 'Task 3',
-		assignee: 'Petr Ivanov',
-		start_date: '10 april',
-		due_date: '11 april'
+		assignee:'Guy Ritchie',
+		start_date:'April 30',
+		due_date: 'May 2'
 	}
 ]
+export const MONTHS = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"];
+
+
